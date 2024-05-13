@@ -1,0 +1,19 @@
+Creneau;Type;Equipier1;Equipier2
+Cr_19;Snack;ben_24;ben_28
+Cr_4;Bar;ben_20;ben_21
+Cr_17;Secu;ben_1;ben_16
+Cr_1;Bar;ben_10;ben_22
+Cr_7;Camping;ben_9;ben_34
+Cr_10;Entree;ben_18;ben_30
+Cr_14;Secu;ben_11;ben_23
+Cr_16;Secu;ben_25;ben_29
+Cr_6;Camping;ben_17;ben_19
+Cr_15;Secu;ben_3;ben_6
+Cr_3;Bar;ben_14;ben_27
+Cr_5;Bar;ben_2;ben_12
+Cr_11;Entree;ben_5;ben_13
+Cr_20;Snack;ben_26;ben_31
+Cr_12;Entree;ben_8;ben_32
+Cr_22;Snack;ben_7;ben_15
+Cr_9;Camping;ben_4;ben_33
+Valeur objectif;109653

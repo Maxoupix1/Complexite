@@ -1,0 +1,8 @@
+Creneau;Type;Equipier1;Equipier2
+Cr_6;Secu;ben_1;ben_2
+Cr_9;Snack;ben_3;ben_5
+Cr_7;Secu;ben_4;ben_12
+Cr_5;Entree;ben_7;ben_11
+Cr_1;Bar;ben_6;ben_8
+Cr_8;Snack;ben_9;ben_10
+Valeur objectif;40727
